@@ -88,7 +88,8 @@ graphviz
 
 ## 👨‍💻 Author
 
-- Your Name
-- GitHub: [MADHUMITHA](https://github.com/madhu028/madhu.git)
+- S.MADHUMITHA
+- GitHub:(https://github.com/madhu028![image](https://github.com/user-attachments/assets/5fecc3e0-f3f2-405b-bc5b-413c5d4af226)
+)
 
 ---
